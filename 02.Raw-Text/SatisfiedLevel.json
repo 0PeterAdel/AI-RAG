@@ -1,0 +1,4 @@
+{
+  "source": "Data/SatisfiedLevel.csv",
+  "text": "1 | Very Dissatisfied\n2 | Dissatisfied\n3 | Neutral\n4 | Satisfied \n5 | Very Satisfied"
+}

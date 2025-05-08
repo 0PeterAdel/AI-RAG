@@ -1,0 +1,9 @@
+langchain
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+python-docx
+pdfplumber
+python-pptx
+pandas

@@ -1,0 +1,4 @@
+{
+  "source": "Data/RatingLevel.csv",
+  "text": "1 | Unacceptable\n2 | Needs Improvement\n3 | Meets Expectation\n4 | Exceeds Expectation \n5 | Above and Beyond"
+}
